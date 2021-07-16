@@ -1,4 +1,4 @@
-Enthusiast web developer from Turkey
+Web Developer from Turkey
 
 - 👋 Hi, I’m @canykav
 - 👀 I’m interested in web development
