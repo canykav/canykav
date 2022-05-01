@@ -1,6 +1,4 @@
  <div align="center"> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=41F727&width=310&height=50&lines=Hi%2C+I'm+Can+Yi%C4%9Fit.;I+work+as+backend+developer.;Less+code+more+work!)](https://git.io/typing-svg)
   
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200">
 
